@@ -18,6 +18,11 @@
   system.keyboard.enableKeyMapping = true;
   system.keyboard.remapCapsLockToControl = true;
 
+  users.users.blau = {
+    name = "blau";
+    home = "/Users/blau";
+  };
+
   system.primaryUser = "blau";
   services.yabai.enable = true;
   services.yabai.config = {
