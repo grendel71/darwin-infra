@@ -5,7 +5,6 @@
     vim
     htop
     screenfetch
-    zed-editor
     firefox
     ghostty-bin
     git
